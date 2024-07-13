@@ -84,9 +84,9 @@ For example, if we have:
 
 First, calculate the raw units to bet based on the odds:
 
-$ \text{Raw Units on Home Team} = \frac{1}{\text{Best Home Odds}} = \frac{1}{2.00} = 0.500 $
+$$ \text{Raw Units on Home Team} = \frac{1}{\text{Best Home Odds}} = \frac{1}{2.00} = 0.500 $$
 
-$ \text{Raw Units on Away Team} = \frac{1}{\text{Best Away Odds}} = \frac{1}{2.50} = 0.400 $
+$$ \text{Raw Units on Away Team} = \frac{1}{\text{Best Away Odds}} = \frac{1}{2.50} = 0.400 $$
 
 The total raw units is the sum of these raw units:
 
@@ -94,15 +94,15 @@ $$ \text{Total Raw Units} = 0.500 + 0.400 = 0.900 $$
 
 To ensure we bet the entire 1 unit, we scale these raw units proportionally:
 
-$ \text{Scaled Units on Home Team} = \frac{0.500}{0.900} \times 1 = \frac{5}{9} \approx 0.556 $
+$$ \text{Scaled Units on Home Team} = \frac{0.500}{0.900} \times 1 = \frac{5}{9} \approx 0.556 $$
 
-$ \text{Scaled Units on Away Team} = \frac{0.400}{0.900} \times 1 = \frac{4}{9} \approx 0.444 $
+$$ \text{Scaled Units on Away Team} = \frac{0.400}{0.900} \times 1 = \frac{4}{9} \approx 0.444 $$
 
 This means you should bet approximately 0.556 units on the home team and 0.444 units on the away team. 
 
 The expected profit can be calculated as follows:
 
-$ \text{Profit} = \left( \frac{1}{\text{Arbitrage Profit Margin}} - 1 \right) \times 1 = \left( \frac{1}{0.900} - 1 \right) \times 1 = 0.111 $
+$$ \text{Profit} = \left( \frac{1}{\text{Arbitrage Profit Margin}} - 1 \right) \times 1 = \left( \frac{1}{0.900} - 1 \right) \times 1 = 0.111 $$
 
 This means you can expect a profit of 0.111 units for every unit we bet.
 
